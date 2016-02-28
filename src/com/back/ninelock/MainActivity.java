@@ -1,13 +1,11 @@
 package com.back.ninelock;
 
 import com.back.ninelock.R;
-import com.back.ninelock.model.Points;
 import com.back.ninelock.view.ContentView;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.FrameLayout;
-import android.widget.RelativeLayout;
 
 public class MainActivity extends Activity {
 

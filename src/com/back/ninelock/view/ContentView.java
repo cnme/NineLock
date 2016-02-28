@@ -5,16 +5,9 @@ import java.util.List;
 
 import com.back.ninelock.R;
 import com.back.ninelock.model.Point;
-import com.back.ninelock.model.Points;
-
-import android.R.integer;
 import android.content.Context;
-import android.media.Image;
-import android.util.AttributeSet;
 import android.view.ViewGroup;
-import android.view.Window;
 import android.view.WindowManager;
-import android.view.ViewGroup.LayoutParams;
 import android.widget.ImageView;
 
 /**
